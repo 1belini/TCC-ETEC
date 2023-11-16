@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sigma</string>
+    <string name="texto"> \n   MATERIAIS DE APOIO HTML/CSS\n\n -BÁSICO 1                      -INTERMEDIÁRIO 2\n -BÁSICO 2                      -AVANÇADO 1\n -INTERMEDIÁRIO 1       -AVANÇADO 2</string>
+    <string name="texto2"> \n   MATERIAIS DE APOIO PYTHON\n\n -BÁSICO 1                      -INTERMEDIÁRIO 2\n -BÁSICO 2                      -AVANÇADO 1\n -INTERMEDIÁRIO 1       -AVANÇADO 2</string>
+    <string name="texto3"> \n   MATERIAIS DE APOIO LINUX\n\n -BÁSICO 1                      -INTERMEDIÁRIO 2\n -BÁSICO 2                      -AVANÇADO 1\n -INTERMEDIÁRIO 1       -AVANÇADO 2</string>
+</resources>
